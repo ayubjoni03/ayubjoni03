@@ -1,6 +1,6 @@
 ### Hi there 👋, Ayubjoni
 #### Software Engineer 
-https://camo.githubusercontent.com/b3ce8fcb16b1cd0ac29fd3772d599bc62587f919aeb0e00e88344ebfd54b569c/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 ![Software Engineer ](https://plus.unsplash.com/premium_photo-1720287601920-ee8c503af775?fm=jpg&q=400&w=400&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c29mdHdhcmUlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHx8MA%3D%3D)
 
 Hi! I'm a passionate Software Engineer with experience in both frontend and backend development. I love building scalable systems, solving real-world problems, and constantly exploring new technologies.
