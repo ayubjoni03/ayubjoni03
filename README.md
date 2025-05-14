@@ -1,6 +1,6 @@
 ### Hi there 👋, Ayubjoni
 #### Software Engineer 
-![Software Engineer ](https://plus.unsplash.com/premium_photo-1720287601920-ee8c503af775?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c29mdHdhcmUlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHx8MA%3D%3D)
+![Software Engineer ](https://plus.unsplash.com/premium_photo-1720287601920-ee8c503af775?fm=jpg&q=30&w=30&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c29mdHdhcmUlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHx8MA%3D%3D)
 
 Hi! I'm a passionate Software Engineer with experience in both frontend and backend development. I love building scalable systems, solving real-world problems, and constantly exploring new technologies.
 
